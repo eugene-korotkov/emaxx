@@ -1,7 +1,7 @@
 [{"_id":"1",
   "title":"Example First ",
   "short_description":"REST (сокращение от англ. Representational State Transfer — «передача состояния представления»)",
-  "image":"https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+  "image":"http://www.sclance.com/pngs/die-png/die_png_389953.png",
   "view_count":"3"}, 
  {"_id":"2",
   "title":"Example Second",
@@ -11,5 +11,5 @@
  {"_id":"3",
   "title":"Example Third",
   "short_description":"тандарта для RESTful веб-API. Дело в том, что REST является архитектурным стилем, в то время как SOA",
-   "image":"https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+   "image":"https://i.stack.imgur.com/ILTQq.png",
   "view_count":"0"}]
